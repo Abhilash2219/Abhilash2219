@@ -6,12 +6,11 @@ I'm a passionate and motivated software developer, recently graduated and eager 
 
 ## 🚀 About Me
 
-- 🎓 I recently graduated with a degree in **[Your Major]** from **[Your University]**
-- 🌱 I’m currently learning **JavaScript, React.js, and Node.js**
-- 👯 I’m looking to collaborate on **beginner-friendly open-source projects**
-- 💬 Ask me about **HTML, CSS, JavaScript, or anything tech-related!**
-- 📫 How to reach me: **[Your Email or LinkedIn Profile]**
-- ⚡ Fun fact: **I love gaming and tinkering with gadgets in my free time**
+- 🎓 I recently graduated with a degree in Computer science and engineering from EPCET
+- 🌱 I’m currently learning JavaScript, React.js
+- 👯 I’m looking to collaborate on beginner-friendly open-source projects
+- 💬 Ask me about HTML, CSS, JavaScript,Java,Python,SQL
+- 📫 How to reach me: abhilashbadiger0000@gmail.com
 
 ## 🛠️ Skills & Tools
 
@@ -19,7 +18,6 @@ I'm a passionate and motivated software developer, recently graduated and eager 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
@@ -29,9 +27,9 @@ I'm a passionate and motivated software developer, recently graduated and eager 
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn]([https://linkedin.com/in/yourusername](http://www.linkedin.com/in/abhilashbadiger)
+- 
+- [Email](mailto:abhilashbadiger0000@gmail.com)
 
 ## 🌱 Currently Learning
 
