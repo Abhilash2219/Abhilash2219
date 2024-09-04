@@ -35,7 +35,7 @@ I'm constantly learning and exploring new technologies to improve my skills:
 
 - **JavaScript:** Strengthening my understanding of ES6+ features
 - **React.js:** Building dynamic and responsive UIs
-- - **SQL:** Querying databases and managing data efficiently
+- **SQL:** Querying databases and managing data efficiently
 - **Java:** Enhancing my knowledge of object-oriented programming and backend development
 
 ---
