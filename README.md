@@ -21,10 +21,6 @@ I'm a passionate and motivated software developer, recently graduated and eager 
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
 ## 🔗 Connect with Me
 
 - [LinkedIn](http://www.linkedin.com/in/abhilashbadiger)
