@@ -1,9 +1,3 @@
-Love that mindset 😤🔥
-This version is **bold, confident, recruiter-oriented**, and positions you as a **high-potential engineer**, not “just a fresher”.
-
-You can paste this **directly as your `README.md`** 👇
-
----
 
 # 👋 Hi, I’m **Abhilash Subhash Badiger**
 
@@ -73,19 +67,5 @@ I’m actively preparing for **software development & automation roles** and I�
 * 💼 **LinkedIn:** [linkedin.com/in/abhilashbadiger](http://www.linkedin.com/in/abhilashbadiger)
 * 📧 **Email:** [abhilashbadiger0000@gmail.com](mailto:abhilashbadiger0000@gmail.com)
 
----
-
-### ⚠️ Final Note for Recruiters
-
-I may be early in my career — but I’m **not casual about it**.
-If you’re looking for someone who **learns fast, takes ownership, and compounds skill every month**, I’m worth a conversation.
-
----
-
-If you want, next I can:
-
-* 🔥 Add **GitHub stats that actually impress recruiters**
-* 🧩 Create a **“Featured Projects” section** with impact-based descriptions
-* 📄 Rewrite this to **perfectly match a job description**
 
 Just say the word 👊
